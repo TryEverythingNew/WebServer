@@ -1,0 +1,6 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.pdb
