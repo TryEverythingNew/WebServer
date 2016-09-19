@@ -191,7 +191,6 @@ namespace CS422
 
             // read_conti == false;
             string response = String.Format(responseTemplate, "11387859", DateTime.Now.ToString(), request);
-            response += "<br>王墨盈是个大傻逼！";
 
             byte[] buffer_response = Encoding.UTF8.GetBytes(response);
             ns.Write(buffer_response,0,buffer_response.Length);
