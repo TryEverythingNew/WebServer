@@ -1,0 +1,6 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\bin\Debug\HW6_CS422_WebServer.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\bin\Debug\HW6_CS422_WebServer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\bin\Debug\HW6_CS422_WebServer.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\obj\Debug\HW6_CS422_WebServer.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\obj\Debug\HW6_CS422_WebServer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW6_CS422_WebServer\HW6_CS422_WebServer\obj\Debug\HW6_CS422_WebServer.pdb
